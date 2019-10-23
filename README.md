@@ -1,7 +1,7 @@
 # iecse-swacch-bharat
 # Hello
 
-## Wrld
+## World
 
 ###### Hi
 
