@@ -2,7 +2,7 @@
 
 __Swachh Bharat Abhiyan__
 
-Swachh Bharat Abhiyan is a mission launched in India from 2014-2019 with the aim of making the country cleaner
+Swachh Bharat Abhiyan is a mission launched in India from 2014-19 with the aim of making the country cleaner
 by cleaning up roads, streets, gardens etc in all towns, cities and rural areas. It was launched by Honourable Prime Minister of India, Shri Narendra Modi 
 on 2nd October, 2014 on the eve of Mahatma Gandhi Jayanti at Rajghat, New Delhi to honour the late Father of the Nation at his  burial site.
 The mission also aims at eradicating open defecation which is a major proble in Rural India by construction of TOilets and Urinals both domestic
